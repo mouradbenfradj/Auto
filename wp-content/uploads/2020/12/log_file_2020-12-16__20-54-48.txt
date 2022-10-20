@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Auto
+Data file = C:\wamp64\www\Auto/wp-content/uploads/2020/12/demo-content-import-file_2020-12-16__20-54-48.xml
+Widget file = C:\wamp64\www\Auto/wp-content/uploads/2020/12/demo-widgets-import-file_2020-12-16__20-54-48.json
+Customizer file = C:\wamp64\www\Auto/wp-content/uploads/2020/12/demo-customizer-import-file_2020-12-16__20-54-48.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "
+				type		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				con		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				model		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				engine		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				body_color		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				capacity		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				int		": Invalid post type cardealerfields
+[WARNING] Failed to import "
+				mat		": Invalid post type cardealerfields
+
+
+---Importing widgets---
+First Footer Widget : 
+
+HTML personnalisé - About - Imported
+
+Second Footer Widget : 
+
+Recent cars - No Title - Imported
+
+Third Footer Widget : 
+
+Texte - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,938 @@
+# Translation of Themes - CarListings in French (France)
+# This file is distributed under the same license as the Themes - CarListings package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-17 22:08:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - CarListings\n"
+
+#. Theme Name of the theme
+msgid "CarListings"
+msgstr "CarListings"
+
+#: inc/admin/plugins.php:45
+msgid "Slim SEO"
+msgstr "Slim SEO"
+
+#: inc/customizer-pro/class-carlistings-customizer-pro.php:62
+msgid "Need help setting up your site?"
+msgstr "Besoin d’aide pour configurer votre site ?"
+
+#: searchform.php:17
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:13
+msgid "Type and hit Enter..."
+msgstr "Saisissez et appuyez sur Entrée&hellip;"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: listings/loop/orderby.php:32
+msgid "- Price (High to Low) -"
+msgstr "- Prix (du plus au moins cher) -"
+
+#: listings/loop/orderby.php:31
+msgid "- Price (Low to High) -"
+msgstr "- Prix (du moins au plus cher) -"
+
+#: listings/loop/orderby.php:30
+msgid "- Oldest Listings -"
+msgstr "- Annonces les plus anciennes -"
+
+#: listings/loop/orderby.php:29
+msgid "- Newest Listings -"
+msgstr "- Annonces les plus récentes -"
+
+#: listings/loop/bottom.php:20
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: listings/loop/bottom.php:20
+msgid "View"
+msgstr "Voir"
+
+#: listings/single-listing/at-a-glance.php:21
+msgid "Features Highlight"
+msgstr "Fonctionnalités de mise en évidence"
+
+#: listings/single-listing/address.php:26
+msgid "Listing Location:"
+msgstr "Localisation de l’annonce :"
+
+#: listings/single-listing/dealer-details.php:36
+msgid "Dealer Details"
+msgstr "Détails du vendeur"
+
+#: listings/single-listing/contact-form.php:20
+msgid "Quick Contact"
+msgstr "Contact rapide"
+
+#: listings/archive-listing.php:90
+msgid "Sorry, no listings were found."
+msgstr "Désolé, aucune annonce n’a été trouvée."
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:32
+msgctxt "comments"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Commentaire"
+msgstr[1] "Commentaires"
+
+#. translators: placeholder replaced with string
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:26
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:23
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/widgets/class-carlistings-contact-widget.php:104
+msgid "Email:"
+msgstr "E-mail :"
+
+#: inc/widgets/class-carlistings-contact-widget.php:100
+msgid "Working Time:"
+msgstr "Temps de travail :"
+
+#: inc/widgets/class-carlistings-contact-widget.php:38
+msgid "name@example.com "
+msgstr "nom@exemple.com"
+
+#: inc/widgets/class-carlistings-contact-widget.php:37
+msgid "10:00 AM to 5:00 PM"
+msgstr "De 10h00 à 17h00"
+
+#: inc/widgets/class-carlistings-contact-widget.php:23
+msgid "Carlistings: Contact Info"
+msgstr "Carlistings : coordonnées"
+
+#: inc/widgets/class-carlistings-contact-widget.php:19
+msgid "Display your contact information."
+msgstr "Afficher vos coordonnées."
+
+#. translators: plugin name.
+#: inc/dashboard/class-carlistings-dashboard.php:157
+msgid "<strong>%s has been installed and activated</strong>"
+msgstr "<strong>%s a été installé et activé</strong>"
+
+#: inc/dashboard/class-carlistings-dashboard.php:154
+msgid "You have installed and active all recommended plugins"
+msgstr "Vous avez installé et activé tous les extensions recommandées"
+
+#. translators: plugin name.
+#: inc/dashboard/class-carlistings-dashboard.php:147
+msgid "Install %s"
+msgstr "Installer %s"
+
+#. translators: theme name.
+#: inc/dashboard/class-carlistings-dashboard.php:145
+msgid "%1$s needs %2$s to working properly. Please install and activate it."
+msgstr "%1$s a besoin de %2$s pour fonctionner correctement. Veuillez l’installer et l’activer."
+
+#. translators: theme name.
+#: inc/dashboard/class-carlistings-dashboard.php:140
+msgid "%s needs some plugins to working properly. Please install and activate our recommended plugins."
+msgstr "%s a besoin de quelques extensions pour fonctionner correctement. Veuillez installer et activer nos extensions recommandées."
+
+#: inc/dashboard/class-carlistings-dashboard.php:138
+msgid "Install The Recommended Plugins"
+msgstr "Installer les extensions recommandées"
+
+#. Translators: theme name.
+#: inc/dashboard/class-carlistings-dashboard.php:119
+msgid "Get started with %s"
+msgstr "Démarrer avec %s"
+
+#. Translators: theme name and welcome page.
+#: inc/dashboard/class-carlistings-dashboard.php:112
+msgid "Welcome! Thank you for choosing %1$s. To get started, visit our <a href=\"%2$s\">welcome page</a>."
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s. Pour commencer, visitez notre <a href=\"%2$s\">page d'accueil</a>."
+
+#. Translators: theme name and theme slug.
+#: inc/dashboard/class-carlistings-dashboard.php:98
+msgid "Please rate <strong>%1$s</strong> <a href=\"https://wordpress.org/support/theme/%2$s/reviews/\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"https://wordpress.org/support/theme/%2$s/reviews/\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from WP Auto Listings!"
+msgstr "Veuillez évaluer <strong>%1$s</strong> <a href=\"https://fr.wordpress.org/support/theme/%2$s/reviews/\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> sur <a href=\"https://fr.wordpress.org/support/theme/%2$s/reviews/\" target=\"_blank\">WordPress.org</a> pour nous aider à passer le mot. Merci de la part de WP Auto Listings !"
+
+#: inc/dashboard/sections/tabs.php:11
+msgid "Actions"
+msgstr "Actions"
+
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#: inc/dashboard/sections/welcome.php:29
+msgid "Support"
+msgstr "Support"
+
+#. Translators: %1$s - Theme name, %2$s - Theme version.
+#: inc/dashboard/sections/welcome.php:12
+msgid "Welcome to %1$s"
+msgstr "Bienvenue dans %1$s"
+
+#: inc/dashboard/sections/getting-started.php:39
+msgid "screenshot"
+msgstr "capture d’écran"
+
+#: inc/dashboard/sections/getting-started.php:34
+msgid "Read Documentation"
+msgstr "Consulter la documentation"
+
+#: inc/dashboard/sections/getting-started.php:32
+msgid "Need any help to setup and configure the theme? Please check our full documentation for detailed information on how to use it."
+msgstr "Besoin d’aide pour installer et configurer le thème ? Veuillez consulter notre documentation complète pour obtenir des informations détaillées sur son utilisation."
+
+#: inc/dashboard/sections/getting-started.php:31
+msgid "Read Full Documentation"
+msgstr "Lire la documentation complète"
+
+#: inc/dashboard/sections/getting-started.php:27
+msgid "Start Customize"
+msgstr "Commencer la personnalisation"
+
+#: inc/dashboard/sections/getting-started.php:25
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "En utilisant l’outil de personnalisation de WordPress, vous pouvez facilement personnaliser tous les aspects du thème."
+
+#: inc/dashboard/sections/getting-started.php:24
+msgid "Customize The Theme"
+msgstr "Personnaliser ce thème"
+
+#: inc/dashboard/sections/getting-started.php:20
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#. translators: theme name.
+#: inc/dashboard/sections/getting-started.php:16
+msgid "We have made a list of steps for you, to make sure you will get the most of %s. They are easy to follow."
+msgstr "Nous avons créé une liste d’étapes pour vous, afin de vous assurer que vous tirerez le meilleur parti de %s. Elles sont faciles à suivre."
+
+#: inc/dashboard/sections/getting-started.php:12
+msgid "Implement Recommended Actions"
+msgstr "Mettre en œuvre les actions recommandées"
+
+#: inc/dashboard/sections/actions.php:26
+msgid "Connect To Jetpack"
+msgstr "Connecter Jetpack"
+
+#. translators: theme name.
+#: inc/dashboard/sections/actions.php:23
+msgid "%s uses Jetpack to support featured content, social menu. Connect to Jetpack to use these features as well as variety of other tools."
+msgstr "%s utilise Jetpack pour prendre en charge le contenu présenté, le menu social. Connectez-vous à Jetpack pour utiliser ces fonctionnalités ainsi que divers autres outils."
+
+#: inc/dashboard/sections/actions.php:19
+msgid "Connect Your Site To Jetpack"
+msgstr "Connecter votre site à Jetpack"
+
+#: inc/customizer.php:306
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/customizer.php:287
+msgid "Button URL"
+msgstr "URL du bouton"
+
+#: inc/customizer.php:270
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: inc/customizer.php:253
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer.php:236
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer.php:216
+msgid "Call To Action Section"
+msgstr "Section d’appel à action"
+
+#: inc/customizer.php:205
+msgid "4 columns"
+msgstr "4 colonnes"
+
+#: inc/customizer.php:204
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: inc/customizer.php:203
+msgid "2 columns"
+msgstr "2 colonnes"
+
+#: inc/customizer.php:199
+msgid "Listing Columns."
+msgstr "Liste des colonnes."
+
+#: inc/customizer.php:182
+msgid "All Cars Section Image"
+msgstr "Image de la section « toutes les voitures »"
+
+#: inc/customizer.php:165
+msgid "All Cars Section Button URL"
+msgstr "URL du bouton de la section « toutes les voitures »"
+
+#: inc/customizer.php:148
+msgid "All Cars Section Button Text"
+msgstr "Texte du bouton de la section « toutes les voitures »"
+
+#: inc/customizer.php:140
+msgid "See All Cars"
+msgstr "Voir toutes les voitures"
+
+#: inc/customizer.php:131
+msgid "All Cars Section Description"
+msgstr "Description de la section « toutes les voitures »"
+
+#: inc/customizer.php:114
+msgid "All Cars Section Title"
+msgstr "Titre de la section « toutes les voitures »"
+
+#: inc/customizer.php:88
+msgid "The content of this page will be displayed below the featured slider on your static front page."
+msgstr "Le contenu de cette page sera affiché sous le diaporama mis en avant dans votre page d’accueil statique."
+
+#: inc/customizer.php:85
+msgid "Search Page"
+msgstr "Rechercher dans la page"
+
+#: inc/customizer.php:69
+msgid "The animation speed in milliseconds. Enter 0 to disable the slider."
+msgstr "La vitesse d’animation en millisecondes. Saisir 0 pour désactiver le diaporama."
+
+#: inc/customizer.php:65
+msgid "Featured slider speed"
+msgstr "Vitesse du diaporama mis en avant"
+
+#: inc/customizer.php:49
+msgid "Homepage"
+msgstr "Page d’accueil "
+
+#: inc/customizer.php:39
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/extras.php:94
+msgid "Write Your Comments Here..."
+msgstr "Ecrire votre commentaire ici&hellip;"
+
+#: inc/extras.php:79
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: inc/extras.php:67
+msgid "Website URL"
+msgstr "URL du site web"
+
+#: inc/extras.php:65
+msgid "Mail Address *"
+msgstr "Adresse e-mail *"
+
+#: inc/extras.php:63
+msgid "Full Name *"
+msgstr "Nom complet *"
+
+#. Translators: %s - post title.
+#: inc/extras.php:20
+msgid "Read More%s"
+msgstr "Lire la suite %s"
+
+#. translators: %1$s - make, %2$s number of cars.
+#: inc/template-tags.php:154
+msgid "%1$s <span>(%2$s)</span>"
+msgstr "%1$s <span>(%2$s)</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:76
+msgid ", "
+msgstr ","
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:49
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/breadcrumbs.php:123
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/breadcrumbs.php:111
+msgid "Not found"
+msgstr "Non trouvé"
+
+#. translators: search query
+#: inc/breadcrumbs.php:109
+msgid "Search results for &quot;%s&quot;"
+msgstr "Résultats de la recherche pour &quot;%s&quot;"
+
+#: inc/breadcrumbs.php:50
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/customizer-pro/class-carlistings-customizer-pro.php:61
+msgid "Need Some Help?"
+msgstr "Besoin d’aide ?"
+
+#: inc/admin/plugins.php:41
+msgid "Meta Box"
+msgstr "Boîte de métadonnées"
+
+#: inc/admin/plugins.php:37
+msgid "Auto Listings"
+msgstr "Auto Listings"
+
+#: inc/admin/plugins.php:33
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: inc/admin/class-tgm-plugin-activation.php:3551
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: inc/admin/class-tgm-plugin-activation.php:3551
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3546
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3544
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3543
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installée."
+
+#: inc/admin/class-tgm-plugin-activation.php:3541
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation démarre. Cela peut prendre un peu de temps selon l’hébergeur, veuillez patienter."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3538
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3536
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3535
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installé et activé."
+
+#: inc/admin/class-tgm-plugin-activation.php:3533
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation est lancé. Il peut prendre un certain temps chez certains hébergeurs, veuillez être patient."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3529
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/admin/class-tgm-plugin-activation.php:3527
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur s’est produite lors de l'installation de %1$s : <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3524
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3180
+msgid "Plugin activation failed."
+msgstr "L'activation de l’extension a échouée."
+
+#: inc/admin/class-tgm-plugin-activation.php:2956
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n’est disponible pour être activée pour le moment."
+
+#: inc/admin/class-tgm-plugin-activation.php:2930
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être activée. Aucune action ne sera effectuée."
+
+#: inc/admin/class-tgm-plugin-activation.php:2824
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension n’est disponible pour être mise à jour pour le moment."
+
+#: inc/admin/class-tgm-plugin-activation.php:2822
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n’est actuellement disponible pour être installée."
+
+#: inc/admin/class-tgm-plugin-activation.php:2781
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être mise à jour. Aucune action ne sera effectuée. "
+
+#: inc/admin/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être installée. Aucune action ne sera effectuée."
+
+#: inc/admin/class-tgm-plugin-activation.php:2748
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/admin/class-tgm-plugin-activation.php:2745
+msgid "Update"
+msgstr "Mise à jour"
+
+#: inc/admin/class-tgm-plugin-activation.php:2739
+msgid "Install"
+msgstr "Installer"
+
+#: inc/admin/class-tgm-plugin-activation.php:2706
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l'auteur de l'extension :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2636
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2630
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2625
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/admin/class-tgm-plugin-activation.php:2576
+msgid "Status"
+msgstr "État"
+
+#: inc/admin/class-tgm-plugin-activation.php:2575
+msgid "Version"
+msgstr "Version"
+
+#: inc/admin/class-tgm-plugin-activation.php:2571
+msgid "Type"
+msgstr "Type"
+
+#: inc/admin/class-tgm-plugin-activation.php:2570
+msgid "Source"
+msgstr "Source"
+
+#: inc/admin/class-tgm-plugin-activation.php:2569
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/admin/class-tgm-plugin-activation.php:2555
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, mettre à jour ou activer."
+
+#: inc/admin/class-tgm-plugin-activation.php:2532
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/admin/class-tgm-plugin-activation.php:2520
+msgid "Minimum required version:"
+msgstr "Version minimum nécessaire :"
+
+#: inc/admin/class-tgm-plugin-activation.php:2512
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/admin/class-tgm-plugin-activation.php:2504
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Inconnu"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2422
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2418
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2414
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2410
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toutes <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/admin/class-tgm-plugin-activation.php:2364
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/admin/class-tgm-plugin-activation.php:2355
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/admin/class-tgm-plugin-activation.php:2352
+msgid "Requires Update"
+msgstr "Mise à jour nécessaire"
+
+#: inc/admin/class-tgm-plugin-activation.php:2349
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+#: inc/admin/class-tgm-plugin-activation.php:2343
+msgid "Active"
+msgstr "Active"
+
+#: inc/admin/class-tgm-plugin-activation.php:2341
+msgid "Installed But Not Activated"
+msgstr "Installée mais non activée"
+
+#: inc/admin/class-tgm-plugin-activation.php:2337
+msgid "Not Installed"
+msgstr "Non installée"
+
+#: inc/admin/class-tgm-plugin-activation.php:2320
+msgid "Pre-Packaged"
+msgstr "Pré-packagée"
+
+#: inc/admin/class-tgm-plugin-activation.php:2317
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/admin/class-tgm-plugin-activation.php:2314
+msgid "WordPress Repository"
+msgstr "Dépôt WordPress"
+
+#: inc/admin/class-tgm-plugin-activation.php:2298
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: inc/admin/class-tgm-plugin-activation.php:2295
+msgid "Required"
+msgstr "Nécessaire"
+
+#. translators: %s: version number
+#: inc/admin/class-tgm-plugin-activation.php:2004
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/admin/class-tgm-plugin-activation.php:1135
+#: inc/admin/class-tgm-plugin-activation.php:2970
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/admin/class-tgm-plugin-activation.php:946
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le paquet distant de l’extension contient plus d’un fichier, mais les fichiers ne sont pas empaquetés dans un dossier."
+
+#: inc/admin/class-tgm-plugin-activation.php:936
+#: inc/admin/class-tgm-plugin-activation.php:946
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l’extension et demandez lui de compiler son extension conformément aux directives de WordPress."
+
+#: inc/admin/class-tgm-plugin-activation.php:936
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le paquet distant de l’extension ne contient pas de dossier avec le slug désiré et le changement de nom n’a pas fonctionné."
+
+#: inc/admin/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Mise à jour nécessaire"
+
+#: inc/admin/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension doit être mise à jour pour être compatible avec votre thème."
+
+#: inc/admin/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur de ce site pour obtenir de l’aide."
+
+#: inc/admin/class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il existe une ou plusieurs extensions nécessaires ou recommandées à installer, mettre à jour ou activer."
+
+#: inc/admin/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+#. translators: 1: dashboard link.
+#: inc/admin/class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont bien été installées et activées. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "L’extension n’a pas été activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez mettre à jour l’extension."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L’extension %1$s était déjà activée."
+
+#: inc/admin/class-tgm-plugin-activation.php:386
+#: inc/admin/class-tgm-plugin-activation.php:2974
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L’extension suivante a bien été activée :"
+msgstr[1] "Les extensions suivantes ont bien été activées :"
+
+#: inc/admin/class-tgm-plugin-activation.php:385
+#: inc/admin/class-tgm-plugin-activation.php:3181
+msgid "Plugin activated successfully."
+msgstr "L’extension a bien été activée."
+
+#: inc/admin/class-tgm-plugin-activation.php:384
+#: inc/admin/class-tgm-plugin-activation.php:827
+#: inc/admin/class-tgm-plugin-activation.php:2555
+#: inc/admin/class-tgm-plugin-activation.php:3611
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/admin/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installation des extensions nécessaires."
+
+#: inc/admin/class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Lancer l’activation de l’extension"
+msgstr[1] "Lancer l’activation des extensions"
+
+#: inc/admin/class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Début de mise à jour de l’extension"
+msgstr[1] "Début de mise à jour des extensions"
+
+#: inc/admin/class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Début d’installation de l’extension"
+msgstr[1] "Début de mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est inactive : %1$s."
+msgstr[1] "Les extensions recommandées suivantes sont inactives : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension nécessaire suivante est actuellement inactive : %1$s."
+msgstr[1] "Les extensions nécessaires suivantes sont actuellement inactives : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour : %1$s."
+msgstr[1] "Des mises à jour sont disponibles pour les extensions suivantes : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "L’extension suivante nécessite une mise à jour pour assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] "Les extensions suivantes nécessitent une mise à jour pour assurer une compatibilité maximale avec ce thème : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l’extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite l’extension suivante : %1$s."
+msgstr[1] "Ce thème nécessite les extensions suivantes : %1$s."
+
+#: inc/admin/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur s’est produite avec l’API de l’extension."
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l’extension : %s"
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+#: inc/admin/class-tgm-plugin-activation.php:326
+#: inc/dashboard/class-carlistings-dashboard.php:141
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: inc/admin/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "Installer les extensions nécessaires"
+
+#: index.php:35 archive.php:30 search.php:30
+msgid "Next"
+msgstr "Suivant"
+
+#: index.php:34 archive.php:29 search.php:29
+msgid "Previous"
+msgstr "Précédent"
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Essayez d’effectuer une recherche."
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: inc/customizer.php:262 template-parts/cta.php:11
+msgid "go to car listings"
+msgstr "aller aux listes de voitures"
+
+#: inc/customizer.php:245 template-parts/cta.php:9
+msgid "We have a big list of modern & classic cars in both used and new categories."
+msgstr "Nous avons une grande liste de voitures modernes et classiques dans les catégories neuves et d’occasions."
+
+#: inc/customizer.php:228 template-parts/cta.php:8
+msgid "You Want To Have Your Favorite Car?"
+msgstr "Vous voulez trouver votre voiture préférée ?"
+
+#: template-parts/content.php:36 template-parts/content-blog.php:45
+#: template-parts/content-search.php:31 template-parts/content-page.php:26
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/home/cars-by-make.php:12
+msgid "See all cars"
+msgstr "Voir toutes les voitures"
+
+#: inc/customizer.php:123 template-parts/home/cars-by-make.php:10
+msgid "Available in different categories"
+msgstr "Disponible dans différentes catégories"
+
+#: inc/customizer.php:106 template-parts/home/cars-by-make.php:9
+msgid "Browse Cars By Make"
+msgstr "Parcourir les voitures par marque"
+
+#. Template Name of the theme
+msgid "Front-page"
+msgstr "Page d’accueil"
+
+#: header.php:73
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien n’ait été trouvé à cet endroit. Essayez peut-être l’un des liens ci-dessous ou une autre recherche ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."
+
+#: functions.php:205
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "pas de sous-ensemble"
+
+#: functions.php:197
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:136
+msgid "Add your language widget here."
+msgstr "Ajouter votre widget de langue ici."
+
+#: functions.php:134
+msgid "Topbar Languages"
+msgstr "Langues de la barre supérieure"
+
+#: functions.php:125
+msgid "Add your contact widget here."
+msgstr "Ajoutez votre widget de contact ici."
+
+#: functions.php:123
+msgid "Topbar Contact"
+msgstr "Contact de la barre supérieure"
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:50
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:49
+msgid "Primary"
+msgstr "Primaire"
+
+#. Author URI of the theme
+#. translators: placeholder replaced with string
+#: footer.php:32
+msgid "https://wpautolistings.com/"
+msgstr "https://wpautolistings.com/"
+
+#. Author of the theme
+#: inc/dashboard/sections/welcome.php:26
+msgid "WP Auto Listings"
+msgstr "WP Auto Listings"
+
+#. Theme URI of the theme
+msgid "https://wpautolistings.com/themes/"
+msgstr "https://wpautolistings.com/themes/"
